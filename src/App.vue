@@ -15,7 +15,7 @@ export default {
   },
   data() {
     return {
-      obj: 12
+      obj: 123
     }
   }
 }
